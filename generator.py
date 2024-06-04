@@ -1,3 +1,4 @@
+# Encryption code generator
 import string
 import random
 import csv
